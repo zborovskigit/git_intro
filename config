@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[user]
+	name = zborovski
+	email = me@zborovski.ru
+[alias]
+	history = log --graph --oneline --decorate
